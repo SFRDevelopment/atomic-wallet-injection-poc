@@ -1,8 +1,6 @@
-https://repository-images.githubusercontent.com/836406249/f3a316b6-fd7f-4b97-bcd1-21b09f54d2af
-
-
-
 # Atomic Wallet Injection Analysis
+
+![Repository Image](https://repository-images.githubusercontent.com/836406249/f3a316b6-fd7f-4b97-bcd1-21b09f54d2af)
 
 **Educational Purpose Only**
 
@@ -15,6 +13,10 @@ Security research repository analyzing injection vulnerabilities in Atomic Walle
 ## Overview
 
 This analysis documents several injection points where sensitive data (mnemonics, private keys, passwords, and balances) can be intercepted during wallet operations. These injections demonstrate potential security vulnerabilities in how sensitive data is handled within the application.
+
+![Injection Demonstration](images/screenshot.png)
+
+*Screenshot showing the injection functionality in action*
 
 ## Injection Points
 
